@@ -1,14 +1,13 @@
-# 💻 With expertise in React.js
-<div>
-  <div align="left" style="width:200px">
+## 💻 With expertise in React.js
+
+<div  align="center">
+  <div align="left" >
     <p>and some experience working with Laravel 🚀</p>
     <p>I enjoy building modern,</p>
     <p>user-friendly interfaces</p>
     <p>and interactive web applications.</p>
   </div>
-  <div align="right" >
-    <img  style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
-  </div>
+  <img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
 </div>
 
 <h1 align="center">
@@ -25,7 +24,7 @@
 
 📫 How to reach me **imankarimian20@gmail.com**
 
-📄 Know about my experiences **<a href="https://www.linkedin.com/in/ali-saadat-a678a0283/">Linkedin</a>**
+📄 Know about my experiences **<a href="https://www.linkedin.com/in/iman-karimian-0757361b1">Linkedin</a>**
 
 
 <h3 align="left">Connect with me:</h3>
