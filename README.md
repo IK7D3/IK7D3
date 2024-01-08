@@ -2,9 +2,9 @@
 
 <img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian"></p>
 <p>and some experience working with Laravel 🚀</p>
-I enjoy building modern,
-user-friendly interfaces
-and interactive web applications.
+<p>I enjoy building modern,</p>
+<p>user-friendly interfaces</p>
+<p>and interactive web applications.</p>
 
   
 
