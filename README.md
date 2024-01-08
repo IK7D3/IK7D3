@@ -1,6 +1,8 @@
 ## 💻 With expertise in React.js
 
-<img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian"></p>
+
+<img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
+
 <p>and some experience working with Laravel 🚀</p>
 <p>I enjoy building modern,</p>
 <p>user-friendly interfaces</p>
@@ -38,3 +40,4 @@
 
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ali36saadat&label=Profile%20views&color=0e75b6&style=flat" alt="ali saadat" /> </p>
