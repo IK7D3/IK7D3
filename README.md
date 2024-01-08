@@ -5,7 +5,8 @@
 <p>I enjoy building modern,</p>
 <p>user-friendly interfaces</p>
 <p>and interactive web applications.</p>
-
+<p>Feel free to connect with me on GitHub. I'm always excited to collaborate and contribute to meaningful projects.</p>
+<p>Apart from coding, I have a fondness for ducks.</p>
   
 
 
