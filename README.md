@@ -1,12 +1,24 @@
 # 💻 With expertise in React.js
-
+<div>
+  <div align="left" style="width:200px">
+    <p>and some experience working with Laravel 🚀</p>
+    <p>I enjoy building modern,</p>
+    <p>user-friendly interfaces</p>
+    <p>and interactive web applications.</p>
+  </div>
+  <div align="right">
+    <img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
+  </div>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFF00&background=000000&center=true&vCenter=true&random=false&width=1024&lines=Hello%2C+World!;I'm+Iman+Karimian;A+Front-End+Developer" alt="iman karimian" /></a>
 </h1>
 
 ###
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" style="width:200px"  src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="">
+
+<img align="right" style="width:200px"  src="https://github.com/IK7D3/IK7D3/assets/31375078/e75007bc-da0b-4b4c-bab4-80fed0fbd81f" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali36saadat&label=Profile%20views&color=0e75b6&style=flat" alt="ali saadat" /> </p>
 
 - 🌱 I’m currently learning **React**
@@ -29,5 +41,3 @@
 
 
 
-![1](https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627)
-![2](https://github.com/IK7D3/IK7D3/assets/31375078/e75007bc-da0b-4b4c-bab4-80fed0fbd81f)
