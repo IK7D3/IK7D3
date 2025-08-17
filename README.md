@@ -8,7 +8,7 @@
 <img align="right" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
 
 <br/>
-<p>Exploring the full stack with a passion for AI. My current focus:</p>
+<p>Exploring the full stack with a passion for AI</p>
 <p>Backend: Python & FastAPI</p>
 <p>Frontend: React.js & Chrome Extensions</p>
 <p>AI Integration: LangChain & Language Models</p>
