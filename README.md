@@ -5,7 +5,7 @@
 ###
 
 
-<img height="width:200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ik7d3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img height="width:150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ik7d3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 
 
@@ -21,8 +21,8 @@
 </h1>
 
 
-<img align="left" style="width:200px"  src="https://github.com/IK7D3/IK7D3/assets/31375078/e75007bc-da0b-4b4c-bab4-80fed0fbd81f" alt="">
- <img align="left" style="width:200px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
+<img align="left" style="width:180px"  src="https://github.com/IK7D3/IK7D3/assets/31375078/e75007bc-da0b-4b4c-bab4-80fed0fbd81f" alt="">
+ <img align="left" style="width:180px" src="https://github.com/IK7D3/IK7D3/assets/31375078/9d184cb7-d5b3-44bb-bafe-f164b5f01627" alt="iman karimian">
 
 
 
