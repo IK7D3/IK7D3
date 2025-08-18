@@ -11,8 +11,8 @@
 
 <p>Exploring the full stack with a passion for AI</p>
 <p>Backend: Python & FastAPI</p>
-<p>Frontend: React.js & Chrome Extensions</p>
-<p>AI Integration: LangChain & Language Models</p>
+<p>Frontend: React.js & Tailwind</p>
+<p>AI Integration: LangChain & LLMs</p>
 <p>:duck: I like ducks :duck:</p>
   
 
