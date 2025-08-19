@@ -8,7 +8,7 @@
 <img height="width:150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ik7d3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 
-
+<br/>
 <p>Exploring the full stack with a passion for AI</p>
 <p>Backend: Python & FastAPI</p>
 <p>Frontend: React.js & Tailwind</p>
