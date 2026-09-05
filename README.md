@@ -12,11 +12,10 @@
 <br/>
 <p>🎓 M.Sc. Student in Information Technology at Amir Kabir University of Technology (Tehran Polytechnic)</p>
 <p>🤖 AI Engineer | LLMs & NLP</p>
-<p>🧠 RAG, LLM Applications & AI Agents</p>
-<p>🐍 Python & FastAPI</p>
+<a href="https://ik7d3.github.io/my-resume/">My Resume</a>
 
 
-<h1 align="center">
+<h1 align="center" ">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFF00&background=000000&center=true&vCenter=true&random=false&width=1024&lines=Hello%2C+World!;I'm+Iman+Karimian;A+Programmer" alt="iman karimian" /></a>
 </h1>
 
