@@ -10,7 +10,7 @@
 
 
 <br/>
-<p>🎓 M.Sc. Student in Information Technology at Amir Kabir University of Technology (Tehran Polytechnic)</p>
+<p>🎓 M.Sc. Student in Information Technology at AmirKabir University of Technology (Tehran Polytechnic)</p>
 <p>🤖 AI Engineer | LLMs & NLP</p>
 <a href="https://ik7d3.github.io/my-resume/">My Resume</a>
 
